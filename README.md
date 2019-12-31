@@ -1,2 +1,2 @@
 # Travis-CI
-Lets play with Travis-CI
+Let's play with Travis-CI
